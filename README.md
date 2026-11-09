@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m Jayaraj, a Software Engineer at EGC Glocal Services, specializing in React and Microservices development. With over 4-5 years of hands-on experience, I’ve built and maintained real-world applications that emphasize clean architecture, reusability, and performance.<br><br>I started my journey working with C# and .NET (MVC & Web API), where I developed robust backend systems using Entity Framework and SQL Server. Over time, I transitioned into the JavaScript ecosystem, mastering React with TypeScript, Tailwind CSS, and ShadCN UI to create scalable, interactive, and visually appealing interfaces.<br><br>I’m currently working on projects involving:<br><br>Custom UI components (grids, dropdowns, multi-selects, date pickers, etc.)<br><br>Integration with Azure Maps and cloud services<br><br>Dynamic form and workflow-driven interfaces<br><br>Rich Text Editors, email reminders, and reusable design systems<br><br>Internal tools like time-tracking dashboards and low-code builders (similar to Retool)<br><br>I’m passionate about building efficient front-end architectures, bridging UI and backend logic, and experimenting with AI-powered code generation to accelerate development.<br><br>Outside of coding, I’m driven by problem-solving, UI precision, and exploring how design systems and automation can make developers more productive.
+I’m Jayaraj, Full Stack Software Engineer with 5+ years of experience building and modernising enterprise applications using
+React, TypeScript, C#, .NET, SQL Server, Azure and microservices. Experienced in ERP modernization, Infor SX.e
+integrations, REST APIs and data-intensive workflows supporting 1,000+ users. Recently completed a four-month
+Advanced AI Forward Deployed Engineering program, developing practical skills in Python, FastAPI, LLM application
+development, retrieval-augmented generation (RAG), embeddings, agentic workflows and Model Context Protocol
+(MCP). Combines enterprise software delivery with business-focused AI solution development.
 
 
 ## 🌐 Socials:
